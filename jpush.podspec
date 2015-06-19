@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios, "8.0"
 
-  s.source       = { :git => "https://github.com/jpush/jpush-ios-sdk-pod.git", :tag => "v1.8.3" }
+  s.source       = { :git => "https://github.com/Candyroot/jpush-ios-sdk-pod.git", :tag => "v1.8.3" }
 
   s.source_files  = "lib/*.h"
 
